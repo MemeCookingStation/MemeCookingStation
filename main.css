@@ -1,0 +1,28 @@
+body{
+    background-color: #cacacaca;
+}
+
+canvas{
+    border-color: #1e1e1e;
+    border-style: solid;
+}
+
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(45, 120, 163, 0.705);
+    padding: 1em;
+}
+
+.container{
+    text-align: center;
+}
+
+.text{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #1e1e1e;
+    resize: none;
+}
